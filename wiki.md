@@ -13,6 +13,17 @@ Epic the Musical has over 40 songs, which consist of 9 sagas that explain each "
 ## Themes
 A few of the themes that are prevalent in the musical is the theme of "Ruthlessness". "Ruthlessness" is how many characters justify their actions. For example, when Polyphemus in the Cyclops Saga is hurt from his favorite sheep being killed, he responds by lashing out at Odysseus' crew, thinking that if none of the crew survives, the rest of his sheep will remain untouched. Similarly, since Polyphemus is Poseidon's son, Poseidon enacts justice by killing off a majority of Odysseus' crew as punishment. These are all referenced in the final song of Act 1: "Monster", where they explain that in being "Ruthless" they protect themselves and their own, but tend to be seen as losing their humanity in the process.
 
+## Top 5 Most Streamed Songs From EPIC
+<body>
+    <ul>
+        <li>Warrior of the Mind</li>
+        <li>Ruthlessness</li>
+        <li>Monster</li>
+        <li>No Longer You</li>
+        <li>Thunder Bringer</li>
+    </ul>
+</body>
+
 
 ## See also
 - [Epic the Musical Wiki](https://static.wikia.nocookie.net/epicthemusical/images/3/3e/Epic_The_Musical_Album_Cover.png/revision/latest?cb=20241230083621)
