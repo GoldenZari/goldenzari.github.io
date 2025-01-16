@@ -1,4 +1,5 @@
 # Epic the Musical
+<img src="https://static.wikia.nocookie.net/epicthemusical/images/3/3e/Epic_The_Musical_Album_Cover.png/revision/latest?cb=20241230083621" alt="EPIC Cover Art" />
 ![Epic the Musical Spotify](https://open.spotify.com/playlist/3sdEH7HfFE3d4xry5RnnLr?si=6JYwbXiIRqyvqfiHaelaJQ)
 
 **EPIC: the Musical** is a musical adaption of Homer's The Odyssey by Jorge Rivera-Herrans. It is heavily documented on Jorge's TikTok, amassing about 60 million views across *TikTok*. It also received multiple number 1 soundtracks on ITunes upon release.
@@ -6,6 +7,8 @@
 
 ## Songs
 The concept album consists of 40 songs spanning multiple genres, splitting into two acts fo consistent themeing between the two. The songs have garnered 5 million streams at the very least, and older ones even have over 10 million streams. Upon release, they often make number 1 spots. 
+
+<img src="https://i.ytimg.com/vi/tso8nSWnENM/maxresdefault.jpg" alt="Puppeteer Fan Animatic by. Gigi" />
 
 ### Sagas
 Epic the Musical has over 40 songs, which consist of 9 sagas that explain each "arc" of Odysseus' story. The first act consist of Troy Saga, the Cyclops Saga, the Ocean Saga, the Circe Saga, and the Underworld Saga. The second act consists of the Thunder Saga, the Wisdom Saga, the Vengeance Saga, and the Ithaca Saga.
